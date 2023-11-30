@@ -1,0 +1,14 @@
+D:\codes\asd\ConsoleLab2\Converter\bin\Debug\net8.0\Converter.exe
+D:\codes\asd\ConsoleLab2\Converter\bin\Debug\net8.0\Converter.deps.json
+D:\codes\asd\ConsoleLab2\Converter\bin\Debug\net8.0\Converter.runtimeconfig.json
+D:\codes\asd\ConsoleLab2\Converter\bin\Debug\net8.0\Converter.dll
+D:\codes\asd\ConsoleLab2\Converter\bin\Debug\net8.0\Converter.pdb
+D:\codes\asd\ConsoleLab2\Converter\obj\Debug\net8.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\asd\ConsoleLab2\Converter\obj\Debug\net8.0\Converter.AssemblyInfoInputs.cache
+D:\codes\asd\ConsoleLab2\Converter\obj\Debug\net8.0\Converter.AssemblyInfo.cs
+D:\codes\asd\ConsoleLab2\Converter\obj\Debug\net8.0\Converter.csproj.CoreCompileInputs.cache
+D:\codes\asd\ConsoleLab2\Converter\obj\Debug\net8.0\Converter.dll
+D:\codes\asd\ConsoleLab2\Converter\obj\Debug\net8.0\refint\Converter.dll
+D:\codes\asd\ConsoleLab2\Converter\obj\Debug\net8.0\Converter.pdb
+D:\codes\asd\ConsoleLab2\Converter\obj\Debug\net8.0\Converter.genruntimeconfig.cache
+D:\codes\asd\ConsoleLab2\Converter\obj\Debug\net8.0\ref\Converter.dll

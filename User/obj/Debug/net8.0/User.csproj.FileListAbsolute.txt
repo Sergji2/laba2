@@ -1,0 +1,14 @@
+D:\codes\asd\ConsoleLab2\User\bin\Debug\net8.0\User.exe
+D:\codes\asd\ConsoleLab2\User\bin\Debug\net8.0\User.deps.json
+D:\codes\asd\ConsoleLab2\User\bin\Debug\net8.0\User.runtimeconfig.json
+D:\codes\asd\ConsoleLab2\User\bin\Debug\net8.0\User.dll
+D:\codes\asd\ConsoleLab2\User\bin\Debug\net8.0\User.pdb
+D:\codes\asd\ConsoleLab2\User\obj\Debug\net8.0\User.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\asd\ConsoleLab2\User\obj\Debug\net8.0\User.AssemblyInfoInputs.cache
+D:\codes\asd\ConsoleLab2\User\obj\Debug\net8.0\User.AssemblyInfo.cs
+D:\codes\asd\ConsoleLab2\User\obj\Debug\net8.0\User.csproj.CoreCompileInputs.cache
+D:\codes\asd\ConsoleLab2\User\obj\Debug\net8.0\User.dll
+D:\codes\asd\ConsoleLab2\User\obj\Debug\net8.0\refint\User.dll
+D:\codes\asd\ConsoleLab2\User\obj\Debug\net8.0\User.pdb
+D:\codes\asd\ConsoleLab2\User\obj\Debug\net8.0\User.genruntimeconfig.cache
+D:\codes\asd\ConsoleLab2\User\obj\Debug\net8.0\ref\User.dll

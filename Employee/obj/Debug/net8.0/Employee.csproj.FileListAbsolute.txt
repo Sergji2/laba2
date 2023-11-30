@@ -1,0 +1,14 @@
+D:\codes\asd\ConsoleLab2\Employee\bin\Debug\net8.0\Employee.exe
+D:\codes\asd\ConsoleLab2\Employee\bin\Debug\net8.0\Employee.deps.json
+D:\codes\asd\ConsoleLab2\Employee\bin\Debug\net8.0\Employee.runtimeconfig.json
+D:\codes\asd\ConsoleLab2\Employee\bin\Debug\net8.0\Employee.dll
+D:\codes\asd\ConsoleLab2\Employee\bin\Debug\net8.0\Employee.pdb
+D:\codes\asd\ConsoleLab2\Employee\obj\Debug\net8.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\asd\ConsoleLab2\Employee\obj\Debug\net8.0\Employee.AssemblyInfoInputs.cache
+D:\codes\asd\ConsoleLab2\Employee\obj\Debug\net8.0\Employee.AssemblyInfo.cs
+D:\codes\asd\ConsoleLab2\Employee\obj\Debug\net8.0\Employee.csproj.CoreCompileInputs.cache
+D:\codes\asd\ConsoleLab2\Employee\obj\Debug\net8.0\Employee.dll
+D:\codes\asd\ConsoleLab2\Employee\obj\Debug\net8.0\refint\Employee.dll
+D:\codes\asd\ConsoleLab2\Employee\obj\Debug\net8.0\Employee.pdb
+D:\codes\asd\ConsoleLab2\Employee\obj\Debug\net8.0\Employee.genruntimeconfig.cache
+D:\codes\asd\ConsoleLab2\Employee\obj\Debug\net8.0\ref\Employee.dll

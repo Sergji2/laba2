@@ -1,0 +1,14 @@
+D:\codes\asd\ConsoleLab2\ConsoleLab2\obj\Debug\net8.0\Address.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\asd\ConsoleLab2\ConsoleLab2\obj\Debug\net8.0\Address.AssemblyInfoInputs.cache
+D:\codes\asd\ConsoleLab2\ConsoleLab2\obj\Debug\net8.0\Address.AssemblyInfo.cs
+D:\codes\asd\ConsoleLab2\ConsoleLab2\obj\Debug\net8.0\Address.csproj.CoreCompileInputs.cache
+D:\codes\asd\ConsoleLab2\ConsoleLab2\bin\Debug\net8.0\Address.exe
+D:\codes\asd\ConsoleLab2\ConsoleLab2\bin\Debug\net8.0\Address.deps.json
+D:\codes\asd\ConsoleLab2\ConsoleLab2\bin\Debug\net8.0\Address.runtimeconfig.json
+D:\codes\asd\ConsoleLab2\ConsoleLab2\bin\Debug\net8.0\Address.dll
+D:\codes\asd\ConsoleLab2\ConsoleLab2\bin\Debug\net8.0\Address.pdb
+D:\codes\asd\ConsoleLab2\ConsoleLab2\obj\Debug\net8.0\Address.dll
+D:\codes\asd\ConsoleLab2\ConsoleLab2\obj\Debug\net8.0\refint\Address.dll
+D:\codes\asd\ConsoleLab2\ConsoleLab2\obj\Debug\net8.0\Address.pdb
+D:\codes\asd\ConsoleLab2\ConsoleLab2\obj\Debug\net8.0\Address.genruntimeconfig.cache
+D:\codes\asd\ConsoleLab2\ConsoleLab2\obj\Debug\net8.0\ref\Address.dll
